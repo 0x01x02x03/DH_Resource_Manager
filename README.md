@@ -1,19 +1,18 @@
 DH Resource Manager
 =========
-
-A program in Delphi to manage resources programs made in this language.
-
-You have the following options:
-
-[+] List all resources of an application
-[+] Add resources from a single file or an entire folder from
-[+] Edit resources
-[+] Clear resources
-[+] Download an application resources
-[+] Generate RC file to manage resources in a more comfortable way
-
 <br>
-Images : 
+A program in Delphi to manage resources programs made in this language.<br>
+<br>
+You have the following options:<br>
+<br>
+[+] List all resources of an application<br>
+[+] Add resources from a single file or an entire folder from<br>
+[+] Edit resources<br>
+[+] Clear resources<br>
+[+] Download an application resources<br>
+[+] Generate RC file to manage resources in a more comfortable way<br>
+<br>
+An image : 
 
 ![image](http://doddyhackman.webcindario.com/images/dhresource05.jpg)
 
